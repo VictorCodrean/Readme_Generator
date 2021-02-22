@@ -21,6 +21,13 @@ const questions = [
     //     message: 'Write a detailed description of your project if you wish',
     //     name: 'description'
     // },
+    //  As a feature
+    //  {
+    //     type: 'list',
+    //     message: 'Do you want your Readem to include screenshots?',
+    //     choices: ["Yes", "No"],
+    //     name: 'screenshot'
+    // },
     {
         type: 'input',
         message: 'What command should be run to install dependencies?',
@@ -35,7 +42,7 @@ const questions = [
     {
         type: 'list',
         message: "What is your project's license?",
-        choices: ["MIT", "Apache-2.0", "MPL-2.0", "ISC", "odbl", "None"],
+        choices: ["MIT", "Apache%202.0", "MPL%202.0", "ISC", "odbl", "None"],
         name: 'license'
     },
     {
@@ -45,7 +52,7 @@ const questions = [
     },
     {
         type: "input",
-        message: "What are the tesing instructions for your project?",
+        message: "What are the testing instructions for your project?",
         name: "testing"
     },
     {

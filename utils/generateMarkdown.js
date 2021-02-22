@@ -26,12 +26,17 @@ function renderLicenseSection(license) {
   licenseSection = `${licenseBadge}(${licenseLink})`
 }
 
+// Feature regarding Contributors
 // function renderContributors(contributors) {
 // for (var i = 0; i < contributors.length; i++) {
 //   contributorsNames = contributors[i] 
 // }
+// }
 
-
+// Feature regarding screenshots
+// function renderPictures(pictures) {
+//   for (var i = 0; i < pictures.length; i++)
+//     picture[i] = `![picture](${pictures[i]})`
 // }
 
 // TODO: Create a function to generate markdown for README
