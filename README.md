@@ -17,6 +17,7 @@
 ![sampleReadme](/assets/sample_Readme.png)
 
 ## Description
+
 It's a command-line application that helps us to dynamically generate a Readme file based on user inputs and choices.
    
 ## User/Story  
