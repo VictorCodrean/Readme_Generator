@@ -80,7 +80,7 @@ function init() {
     inquirer
         .prompt(questions)
         .then(function (response) {
-            writeToFile("README.md", generateMarkdown(response));
+            writeToFile("sampleREADME.md", generateMarkdown(response));
         })
 }
 

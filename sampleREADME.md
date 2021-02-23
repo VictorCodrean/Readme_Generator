@@ -14,21 +14,21 @@
 It's a command-line application that helps us to dynamically generate a Readme file based on user inputs and choices.
    
 ## Installation
-    For installation, type "npm i" so the dependencies get installed first and will get access to npm package, especially - inquirer. 
+     For installation, type "npm i" so the dependencies get installed first and will get access to npm package, especially - inquirer. 
 
 ## Usage
-Clone repository on your local machine, install dependencies (npm i) - previous step's note and after you get npm packages installed run "node index.js", answer the prompts and the Readme file will be created.     
+ Clone repository on your local machine, install dependencies (npm i) - previous step's note and after you get npm packages installed run "node index.js", answer the prompts and the Readme file will be created.         
 
 ## License
 The project is under
 
-[![License: None](https://img.shields.io/badge/License-None-brightgreen.svg)](https://opensource.org/licenses/None)
+[![License: MPL%202.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL%202.0)
 
 ## Contributing
 Victor Codrean    
 
 ## Tests
-testing is a good way to get a good-quality app, but adding insights and features can help to produce a better app as well. So try to test different features that will amplify the usage of this app    
+testing is a good way to get a good-quality app, but adding insights and features can help to produce a better app as well. So try to test different features that will amplify the usage of this app        
     
 ## Questions
 Asking me any questions:
